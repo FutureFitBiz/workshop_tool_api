@@ -1,0 +1,15 @@
+Flask==1.0.2
+Flask-SQLAlchemy==2.5.1
+Flask-Migrate==2.5.2
+Flask-Cors==3.0.8
+Flask-Bcrypt==0.7.1
+Flask-JWT-Extended==3.24.1
+mysqlclient==1.4.6
+
+#for excel parsing
+pandas==1.2.1
+openpyxl==3.0.6
+
+#emails
+beautifulsoup4==4.9.0
+sendgrid==6.2.1

@@ -1,0 +1,146 @@
+,Question 1 (the same options are always shown):,,Question 2 (options shown are dependant on option selected in Q1):,,"Question 3 (asked only if required, options shown are dependant on option selected in Q2):",,
+,Which of the following best describes your company’s primary business activity?,,Which of the following best describes your company’s primary business activity?,,"Which of the following best describes your company’s primary business activity? (Select only if the topics apply, leave blank if none of the listed topics apply)",,
+Sector ID,Sector Activity,,Sub-Sector Activity,,Business Activity Category,Heatmap code,"Assigned Heatmap (determines which questions the user will be asked, and the weighting of each question)"
+A,"Agriculture, forestry and fishing",1,Agriculture,1.1,Animal rearing,A1,Animal rearing
+,,,,1.2,Crop production,A2,Crop production
+,,2,Fishing and aquaculture,2.1,Aquaculture,A3,Aquaculture
+,,,,2.2,Fishing,A4,Fishing
+,,3,Forestry and logging,,,A5,Forestry and logging
+,,4,"Hunting, trapping and related service activities",,,A6,"Hunting, trapping and related service activities"
+,,5,Post-harvest crop activities,,,A7,Post-harvest crop activities
+B,Mining and quarrying,1,Extraction of fossil fuels,1.1,Extraction of crude petroleum and natural gas,B1,Extraction of crude petroleum and natural gas
+,,,,1.2,Extraction of peat,B2,Extraction of peat
+,,,,1.3,Mining of coal and lignite,B3,Mining of coal and lignite
+,,2,Mining of metal ores,2.1,Mining of iron ores,B4,Mining of iron ores
+,,,,2.2,Mining of non-ferrous metal ores,B5,Mining of non-ferrous metal ores
+,,3,Mining of minerals,,,B6,Mining of minerals
+,,4,Other mining and quarrying,4.1,"Quarrying of stone, sand and clay",B7,"Quarrying of stone, sand and clay"
+,,,,4.2,Other,B8,Other mining and quarrying
+C,Manufacturing,1,Manufacture of chemicals and plastics,1.1,Manufacture of fertilizers and pesticides,C1,Manufacture of fertilizers and pesticides
+,,,,1.2,Manufacture of gases and steam,C2,Manufacture of gases and steam
+,,,,1.3,"Manufacture of paints, varnishes and coatings",C3,"Manufacture of paints, varnishes and coatings"
+,,,,1.4,Other,C4,Manufacture of chemicals and plastics
+,,2,Manufacture of consumables,2.1,Manufacture of alcoholic beverages,C5,Manufacture of alcoholic beverages
+,,,,2.2,Manufacture of cleaning products and cosmetics,C6,Manufacture of cleaning products and cosmetics
+,,,,2.3,Manufacture of food and beverage,C7,Manufacture of food and beverage
+,,,,2.4,Manufacture of pharmaceuticals,C8,Manufacture of pharmaceuticals
+,,,,2.5,Manufacture of tobacco products,C9,Manufacture of tobacco products
+,,3,Manufacture of consumer durables,3.1,Manufacture of cultural and recreation goods,C10,Manufacture of cultural and recreation goods
+,,,,3.2,Manufacture of furniture,C11,Manufacture of furniture
+,,,,3.3,Manufacture of jewellery and watches,C12,Manufacture of jewellery and watches
+,,,,3.4,Other,C13,Manufacture of consumer durables
+,,4,Manufacture of electronic components and boards,4.1,Manufacture of batteries,C14,Manufacture of batteries
+,,,,4.2,Manufacture of semiconductors,C15,Manufacture of semiconductors
+,,,,4.3,Other,C16,Manufacture of electronic components and boards
+,,5,Manufacture of electronic products and equipment,5.1,Manufacture of pharmaceutical and irradiation equipment,C17,Manufacture of pharmaceutical and irradiation equipment
+,,,,5.2,Manufacture of consumer electronics,C18,Manufacture of consumer electronics
+,,,,5.3,Manufacture of domestic appliances,C19,Manufacture of domestic appliances
+,,,,5.4,Other,C20,Manufacture of electronic products and equipment
+,,6,Manufacture of machinery,6.1,Land use equipment,C21,Land use equipment
+,,,,6.2,Other,C22,Manufacture of machinery
+,,7,Manufacture of materials,7.1,Manufacture of basic metals,C23,Manufacture of basic metals
+,,,,7.2,"Manufacture of cement, lime and plaster",C24,"Manufacture of cement, lime and plaster"
+,,,,7.3,Manufacture of coke oven and refined petroleum products,C25,Manufacture of coke oven and refined petroleum products
+,,,,7.4,Manufacture of non-metallic products,C26,Manufacture of non-metallic products
+,,,,7.5,Manufacture of paper and paper products,C26,Manufacture of paper and paper products
+,,,,7.6,Manufacture of plastic products,C27,Manufacture of plastic products
+,,,,7.7,Manufacture of printed products,C28,Manufacture of printed products
+,,,,7.8,Manufacture of rubber products,C29,Manufacture of rubber products
+,,,,7.9,Manufacture of wood and related products,C30,Manufacture of wood and related products
+,,,,7.1,Manufacturing of plastic products,C31,Manufacturing of plastic products
+,,8,Manufacture of metal-based products,8.1,Manufacture of weapons and ammunition,C32,Manufacture of weapons and ammunition
+,,,,8.2,Other,C33,Manufacture of metal-based products
+,,9,Manufacture of textiles and apparel,9.1,Leather,C34,Leather
+,,,,9.2,Other,C35,Manufacture of textiles and apparel
+,,10,Manufacure of vehicles,10.1,Manufacture of motor vehicles,C36,Manufacture of motor vehicles
+,,,,10.2,"Manufacture of ships, trains, air and spacecrafts",C37,"Manufacture of ships, trains, air and spacecrafts"
+,,11,"Motion picture, video and television production",,,C38,"Motion picture, video and television production"
+D,Energy generation,1,Fossil fuel energy generation,1,Coal energy generation,D1,Coal energy generation
+,,,,1.2,Natural gas energy generation,D2,Natural gas energy generation
+,,,,1.3,Oil energy generation,D3,Oil energy generation
+,,2,Nuclear,,,D4,Nuclear energy generation
+,,3,Renewable energy generation,3.1,Biomass energy generation,D5,Biomass energy generation
+,,,,3.2,Geothermal energy generation,D6,Geothermal energy generation
+,,,,3.3,Hydro and tidal energy generation,D7,Hydro and tidal energy generation
+,,,,3.4,Solar energy generation,D8,Solar energy generation
+,,,,3.5,Wind energy generation,D9,Wind energy generation
+E,Infrastructure,1,Construction,1.1,Building infrastructure,E1,Building infrastructure
+,,,,1.2,Civil engineering,E2,Civil engineering
+,,,,1.3,Civil engineering infrastructure,E3,Civil engineering infrastructure
+,,,,1.4,"Electrical infrastructure, plumbing and other installation activities",E4,"Electrical infrastructure, plumbing and other installation activities"
+,,2,Energy distribution infrastructure,2.1,Steam and air conditioning supply,E5,Steam and air conditioning supply
+,,,,2.2,Other,E6,Energy distribution infrastructure
+,,3,Utilities,3.1,Telecommunications infrastructure,E7,Telecommunications infrastructure
+,,,,3.2,Transport via pipeline,E8,Transport via pipeline
+,,,,3.3,Waste collection infrastructure,E9,Waste collection infrastructure
+,,,,3.4,"Water collection, treatment and supply infrastructure",E10,"Water collection, treatment and supply infrastructure"
+F ,Retail,1,Consumables retail,1.1,Agricultural materials and live animal retail,F1,Agricultural materials and live animal retail
+,,,,1.2,Food and beverage retail,F2,Food and beverage retail
+,,,,1.3,Pharmaceutical product retail,F3,Pharmaceutical product retail
+,,,,1.4,Retail of cleaning product and cosmetics,F4,Retail of cleaning product and cosmetics
+,,,,1.5,Tobacco retail,F5,Tobacco retail
+,,2,Consumer durables retail,2.1,Cultural and recreation goods retail,F6,Cultural and recreation goods retail
+,,,,2.2,Retail of cultural and recreation goods,F7,Retail of cultural and recreation goods
+,,,,2.3,Other,F8,Consumer durables retail
+,,3,Electronic products and equipment retail,,,F9,Electronic products and equipment retail
+,,4,Machinery retail,,,F10,Machinery retail
+,,5,Material retail,5.1,"Construction materials retail,  including metals",F11,"Construction materials retail,  including metals"
+,,,,5.2,Fuel retail ,F12,Fuel retail 
+,,,,5.3,Fuels,F13,Fuels
+,,6,Motor vehicle retail,,,F14,Motor vehicle retail
+,,7,Non-specialised retail,,,F15,Non-specialised retail
+,,8,Non-specialized retail and wholesale,,,F16,Non-specialized retail and wholesale
+,,9,Textile and apparal retail,,,F17,Textile and apparal retail
+G,Transportation and storage,1,Air transportation,1.1,Freight air transport,G1,Freight air transport
+,,,,1.2,Passenger air transport,G2,Passenger air transport
+,,2,Land transportation,2.1,Freight rail transport,G3,Freight rail transport
+,,,,2.2,Freight transport by road,G4,Freight transport by road
+,,,,2.3,Passenger land transport,G5,Passenger land transport
+,,,,2.4,Passenger rail transport,G6,Passenger rail transport
+,,3,Postal and courier activities,,,G7,Postal and courier activities
+,,4,Warehousing and storage,,,G8,Warehousing and storage
+,,5,Water transportation,5.1,Freight water transport,G9,Freight water transport
+,,,,5.2,Passenger water transport,G10,Passenger water transport
+H,Services,1,Accommodation and food services,1.1,Accomodation services,H1,Accomodation services
+,,,,1.2,Food and beverage services,H2,Food and beverage services
+,,2,"Arts, entertainment, recreation and travel",2.1,"Arts, culture and entertainment activities",H3,"Arts, culture and entertainment activities"
+,,,,2.2,"Botanicals, gardens and nature reserves",H4,"Botanicals, gardens and nature reserves"
+,,,,2.3,Gambling and betting,H5,Gambling and betting
+,,,,2.4,"Sports, amusement and recreation activities",H6,"Sports, amusement and recreation activities"
+,,,,2.5,Tour operators,H7,Tour operators
+,,,,2.6,Travel agency,H8,Travel agency
+,,3,Building and landscape services,3.1,Cleaning services,H9,Cleaning services
+,,,,3.2,Other,H10,Building and landscape services
+,,4,Education,,,H11,Education
+,,5,Financial and insurance services,5.1,Financial services,H12,Financial services
+,,,,5.2,Insurance services,H13,Insurance services
+,,,,5.3,Other,H14,Financial and insurance services
+,,6,Healthcare services,6.1,Medical and dental practices,H15,Medical and dental practices
+,,,,6.2,Residential care services,H16,Residential care services
+,,,,6.3,Social work without accommodation,H18,Social work without accommodation
+,,,,6.4,Veterinary services,H19,Veterinary services
+,,7,Information and communications,7.1,Computer programming and consultancy,H20,Computer programming and consultancy
+,,,,7.2,Computer programming and consultancy services,H21,Computer programming and consultancy services
+,,,,7.3,Information service activities,H22,Information service activities
+,,,,7.4,Publishing of books and periodicals,H23,Publishing of books and periodicals
+,,,,7.5,"Publishing, programming and broadcasting services",H24,"Publishing, programming and broadcasting services"
+,,8,Office and employment services,8.1,Human resources,H25,Human resources
+,,,,8.2,Office administrative and support,H26,Office administrative and support
+,,,,8.3,Office administrative and support services,H27,Office administrative and support services
+,,9,Personal services,9.1,Hairdressing and beauty,H28,Hairdressing and beauty
+,,,,9.2,Washing and cleaning,H29,Washing and cleaning
+,,,,9.3,Other,H30,Personal services
+,,10,Professional services,10.1,Consultancy services,H31,Consultancy services
+,,,,10.2,Legal and accounting services,H32,Legal and accounting services
+,,11,Real estate services,,,H33,Real estate services
+,,12,Repair services,12.1,Electronic products and equipment repair,H34,Electronic products and equipment repair
+,,,,12.2,Electronic products and equipment repair services,H35,Electronic products and equipment repair services
+,,,,12.3,Machinery repair services,H36,Machinery repair services
+,,,,12.4,Metal-based product repair services,H37,Metal-based product repair services
+,,,,12.5,Motor vehicle repair services,H38,Motor vehicle repair services
+,,,,12.6,Textile and apparel repair services,H39,Textile and apparel repair services
+,,13,Security and investigation services,,,H40,Security and investigation services
+,,14,Technical services,14.1,Advertising services,H41,Advertising services
+,,,,14.2,Consultancy services,H42,Consultancy services
+,,,,14.3,Design and engineering services,H43,Design and engineering services
+,,,,14.4,Scientific R&D services,H44,Scientific R&D services
