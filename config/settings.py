@@ -1,9 +1,9 @@
 import os
 
-import config.secrets as secrets
 
 MODE = os.environ.get('APP_MODE')
 DEBUG = MODE not in ['PROD', 'STAGE']
+
 
 if DEBUG:
     import config.secrets_local as secrets
